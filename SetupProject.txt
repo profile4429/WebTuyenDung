@@ -1,0 +1,14 @@
+Cài đặt Node + Mongodb
+1.Chạy "npm i" tại:
+WebTuyenDung
+WebTuyenDung/client
+WebTuyenDung/DatabaseSetup
+2.Chạy "node index" tại:
+WebTuyenDung/DatabaseSetup
+3.Chạy dự án "npm run dev" tại:
+WebTuyenDung
+
+Link conn: mongodb+srv://admin:Xl7Nn70gpkkj2GhR@cluster0.bxs26d5.mongodb.net/test
+
+
+
